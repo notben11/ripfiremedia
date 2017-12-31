@@ -14,10 +14,13 @@ p {
 	font-family: 'Abel', sans-serif;
 }
 
-#top-banner {
+.top-banner {
+	background-color: orange;
+	height: 0px;
+}
 
-	height: 100px;
-	background: blue;
-	text-align: center;
-	font-size: 200px;
+.center {
+	display: block;
+    margin: auto;
+    padding: 10px;
 }
