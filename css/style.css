@@ -1,1 +1,7 @@
 # Empty CSS file for your own CSS
+
+.top-banner {
+
+	height: 100px
+	background-color: blue;
+}
