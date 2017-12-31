@@ -1,7 +1,23 @@
 # Empty CSS file for your own CSS
+@import url('https://fonts.googleapis.com/css?family=Abel|Fjalla+One');
 
-.top-banner {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Fjalla One', sans-serif;
+}
 
-	height: 100px
-	background-color: blue;
+p {
+	font-family: 'Abel', sans-serif;
+}
+
+#top-banner {
+
+	height: 100px;
+	background: blue;
+	text-align: center;
+	font-size: 200px;
 }
